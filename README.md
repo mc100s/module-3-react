@@ -4,29 +4,29 @@
 
 ## Day 1 | Monday
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [Retrospective](http://learn.ironhack.com/#/learning_unit/2481)
+<img src="./svg/desktop.svg" width="20" height="13" /> [Retrospective](http://learn.ironhack.com/#/learning_unit/2481)
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | Hello React](./lessons/1-2-react-hello-react.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | Hello React](./lessons/1-2-react-hello-react.md)
   - What is React?
   - What are we going to do ?
   - [Doc | Overview of React throw the React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 
-<img src="./svg/github.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [PP | Axios & Functional Programming](https://github.com/mc100s/training-labs-react/tree/master/src/lab-axios-functional-programming)
+<img src="./svg/github.svg" width="20" height="13" /> [PP | Axios & Functional Programming](https://github.com/mc100s/training-labs-react/tree/master/src/lab-axios-functional-programming)
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | JSX and elements](./lessons/1-3-react-jsx-and-rendering-elements.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | JSX and elements](./lessons/1-3-react-jsx-and-rendering-elements.md)
   - [Doc | Hello World](https://reactjs.org/docs/hello-world.html) <!-- 2% -->
   - [Doc | Introducing JSX](https://reactjs.org/docs/introducing-jsx.html) <!-- 7% -->
   - [Doc | Rendering Elements](https://reactjs.org/docs/rendering-elements.html) <!-- 5% -->
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | Components and Props](./lessons/1-4-react-components-and-props.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | Components and Props](./lessons/1-4-react-components-and-props.md)
   - [Doc | Components and Props](https://reactjs.org/docs/components-and-props.html) <!-- 9% -->
 
 
-<img src="./svg/github.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [DE | Bulma Components](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-bulma-components)
+<img src="./svg/github.svg" width="20" height="13" /> [DE | Bulma Components](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-bulma-components)
 
 
 
@@ -43,27 +43,27 @@ DE | Angular | Introduction
 
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | State and Lifecycle](./lessons/2-1-react-state-and-lifecycle.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | State and Lifecycle](./lessons/2-1-react-state-and-lifecycle.md)
   - [Doc | State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html) <!-- 15% -->
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | Handling Events & Conditional Rendering](./lessons/2-2-react-handling-events-and-conditional-rendering.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | Handling Events & Conditional Rendering](./lessons/2-2-react-handling-events-and-conditional-rendering.md)
   - [Doc | Handling Events](https://reactjs.org/docs/handling-events.html) <!-- 6% -->
   - [Doc | Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <!-- 8% -->
 
 
-<img src="./svg/github.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [PP | lab-react-ironcontacts](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-ironcontacts)
+<img src="./svg/github.svg" width="20" height="13" /> [PP | lab-react-ironcontacts](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-ironcontacts)
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | Lists and Keys](./lessons/2-3-react-list-and-keys.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | Lists and Keys](./lessons/2-3-react-list-and-keys.md)
   - [Doc | Lists and Keys](https://reactjs.org/docs/lists-and-keys.html) <!-- 10% -->
 
 
-<img src="./svg/desktop.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [React | Forms](./lessons/2-4-react-forms.md)
+<img src="./svg/desktop.svg" width="20" height="13" /> [React | Forms](./lessons/2-4-react-forms.md)
   - [Doc | Forms](https://reactjs.org/docs/forms.html) <!-- 10% -->
 
 
-<img src="./svg/github.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" /> [DE | lab-react-data-binding](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-data-binding)
+<img src="./svg/github.svg" width="20" height="13" /> [DE | lab-react-data-binding](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-data-binding)
 
 <!-- 
 Angular | Modules and NgModule
