@@ -28,10 +28,13 @@ We will include React in another architecture called the MERN Stack.
 - [The React Router documentation](https://reacttraining.com/react-router/web/guides/)
 
 
-# [React | Installation](https://reactjs.org/docs/try-react.html)
+## [React | Installation](https://reactjs.org/docs/try-react.html)
 
+### With Codepen 
 To use React, you can either play on Codepen with this [Hello World React example on Codepen](https://codepen.io/pen?&editors=0010).
 
+
+### With `create-react-app` 
 Or you can create a React application with your terminal:
 
 ```

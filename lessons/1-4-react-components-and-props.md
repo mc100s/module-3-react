@@ -3,6 +3,14 @@
 # React | Components and Props
 
 
+## Atomic Design
+
+Before starting, let's spend time on Atomic Design, a pattern to design websites with components.
+
+![](https://i.imgur.com/PIVSiPy.png)
+
+If you are interested, you can have a look on [that blog post from Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/).
+
 ## [React | 4. Components and Props](https://reactjs.org/docs/components-and-props.html)
 
 From now on, we will create React Component like this:
@@ -11,6 +19,7 @@ From now on, we will create React Component like this:
 class Welcome extends React.Component {
   render() {
     return <h1>Hello, {this.props.name}</h1>;
+
   }
 }
 ```
