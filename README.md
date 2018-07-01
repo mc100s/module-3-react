@@ -8,9 +8,6 @@
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> [React | Hello React](lessons/1-2-react-hello-react.md)
-  - What is React?
-  - What are we going to do ?
-  - [Doc | Overview of React throw the React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 
 <img src="svg/github.svg" width="20" height="13" /> [PP | Axios & Functional Programming](labs/lab-axios-functional-programming/)
@@ -26,7 +23,7 @@
   - [Doc | Components and Props](https://reactjs.org/docs/components-and-props.html) <!-- 9% -->
 
 
-<img src="svg/github.svg" width="20" height="13" /> [DE | Bulma Components](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-bulma-components)
+<img src="svg/github.svg" width="20" height="13" /> [DE | Bulma Components](labs/lab-react-bulma-components/)
 
 
 

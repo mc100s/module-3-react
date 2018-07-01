@@ -43,3 +43,10 @@ $ create-react-app my-app
 $ cd my-app
 $ npm start
 ```
+
+
+## [React | Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+You can follow the tutorial, it will give you an overview.
+
+It is doable if you don't have any React knowledge, but it is going to be hard.
