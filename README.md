@@ -1,4 +1,4 @@
-# Module 3 | React & Full-Stack Application
+# Module 3 | React & Full-Stack Applications
 
 <!-- <img src="svg/github.svg" width="20" height="13" style="padding-bottom:4px;vertical-align:middle" />  -->
 
@@ -137,7 +137,7 @@ DE | Cinema Billboard
   - [React & Express | Frontend Backend Integration](https://github.com/mc100s/training-labs-react/blob/master/lessons/react-express-integration.md)
 
 
-<img src="svg/github.svg" width="20" height="13" />  DE | MyRecipeBook 
+<img src="svg/github.svg" width="20" height="13" />  [DE | MyRecipeBook](labs/lab-react-express-recipes/) 
 
 
 <!-- 
@@ -150,10 +150,6 @@ DE | MyRecipeBook
  -->
 
 ## Day 5 | Friday
-
-
-
-<img src="svg/github.svg" width="20" height="13" /> React & Express | Code Along
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> React & Express | Authentication
