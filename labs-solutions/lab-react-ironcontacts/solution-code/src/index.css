@@ -1,0 +1,20 @@
+body {
+  font: 14px sans-serif;
+  max-width: 400px;
+  margin: auto;
+}
+
+form {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+img {
+  height: 50px;
+}
+
+table {
+  margin: auto;
+  margin-top: 20px;
+}

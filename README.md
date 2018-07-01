@@ -38,8 +38,6 @@ DE | Angular | Introduction
 
 ## Day 2 | Tuesday
 
-
-
 <img src="svg/desktop.svg" width="20" height="13" /> [React | State and Lifecycle](lessons/2-1-react-state-and-lifecycle.md)
   - [Doc | State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html) <!-- 15% -->
 
@@ -49,11 +47,11 @@ DE | Angular | Introduction
   - [Doc | Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html) <!-- 8% -->
 
 
-<img src="svg/github.svg" width="20" height="13" /> [PP | lab-react-ironcontacts](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-ironcontacts)
-
-
 <img src="svg/desktop.svg" width="20" height="13" /> [React | Lists and Keys](lessons/2-3-react-list-and-keys.md)
   - [Doc | Lists and Keys](https://reactjs.org/docs/lists-and-keys.html) <!-- 10% -->
+
+
+<img src="svg/github.svg" width="20" height="13" /> [PP | lab-react-ironcontacts](labs/lab-react-ironcontacts/)
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> [React | Forms](lessons/2-4-react-forms.md)
