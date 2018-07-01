@@ -33,6 +33,9 @@ We will include React in another architecture called the MERN Stack.
 ### With Codepen 
 To use React, you can either play on Codepen with this [Hello World React example on Codepen](https://codepen.io/pen?&editors=0010).
 
+### With CodeSanbox
+
+If you want something very quick to use, very close to what you can have with VS Code, you can go on CodeSanbox.io: https://codesandbox.io/s/new
 
 ### With `create-react-app` 
 Or you can create a React application with your terminal:
