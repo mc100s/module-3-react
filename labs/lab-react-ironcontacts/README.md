@@ -12,36 +12,10 @@ You can find the starter code in the starter code folder of this Github repo.
 
 ## Installation 
 
-### Setup a basic project
-Commands to launch
-```sh
-$ npm install -g create-react-app # Install globally the `create-react-app` command
-$ create-react-app my-app # Create a React project folder "my-app"
-$ cd my-app
-$ rm -f src/*
-$ touch src/index.js src/index.css # Create 2 files
 ```
-
-Your `src/index.js` file
-```javascript
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-
-class App extends React.Component {
-  render() {
-    return (
-      <div>
-        {/* Your application code */}
-      </div>
-    );
-  }
-}
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+$ cd starter-code
+$ npm install
+$ npm start
 ```
 
 
