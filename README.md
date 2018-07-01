@@ -13,7 +13,7 @@
   - [Doc | Overview of React throw the React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 
-<img src="svg/github.svg" width="20" height="13" /> [PP | Axios & Functional Programming](https://github.com/mc100s/training-labs-react/tree/master/src/lab-axios-functional-programming)
+<img src="svg/github.svg" width="20" height="13" /> [PP | Axios & Functional Programming](labs/lab-axios-functional-programming/)
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> [React | JSX and elements](lessons/1-3-react-jsx-and-rendering-elements.md)

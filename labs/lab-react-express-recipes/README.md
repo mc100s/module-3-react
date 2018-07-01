@@ -101,7 +101,7 @@ For that, you can:
 
 At the end of this iteration, you should see the following result when you go on  `localhost:3000/api/dishes`:
 
-```json
+```json5
 [
   {
     "_id": "598c147d82ff710a38fd6027",

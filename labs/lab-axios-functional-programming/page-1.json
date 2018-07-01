@@ -1,0 +1,1464 @@
+{
+    "page": 1,
+    "total_results": 18966,
+    "total_pages": 949,
+    "results": [
+        {
+            "popularity": 30.070689,
+            "id": 73457,
+            "profile_path": "/n4DD1AYU7WEMNPLga1TxqnHivn1.jpg",
+            "name": "Chris Pratt",
+            "known_for": [
+                {
+                    "vote_average": 7.9,
+                    "vote_count": 13581,
+                    "id": 118340,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Guardians of the Galaxy",
+                    "popularity": 52.006274,
+                    "poster_path": "/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy",
+                    "genre_ids": [
+                        28,
+                        878,
+                        12
+                    ],
+                    "backdrop_path": "/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg",
+                    "adult": false,
+                    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                    "release_date": "2014-07-30"
+                },
+                {
+                    "vote_average": 6.5,
+                    "vote_count": 11281,
+                    "id": 135397,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Jurassic World",
+                    "popularity": 93.582627,
+                    "poster_path": "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg",
+                    "original_language": "en",
+                    "original_title": "Jurassic World",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878,
+                        53
+                    ],
+                    "backdrop_path": "/t5KONotASgVKq4N19RyhIthWOPG.jpg",
+                    "adult": false,
+                    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                    "release_date": "2015-06-06"
+                },
+                {
+                    "vote_average": 7.6,
+                    "vote_count": 8561,
+                    "id": 283995,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Guardians of the Galaxy Vol. 2",
+                    "popularity": 44.590932,
+                    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 2",
+                    "genre_ids": [
+                        28,
+                        12,
+                        35,
+                        878
+                    ],
+                    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                    "adult": false,
+                    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                    "release_date": "2017-04-19"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 23.618895,
+            "id": 18997,
+            "profile_path": "/taWmUeEJvR4j14nydUnVYmhDadT.jpg",
+            "name": "Bryce Dallas Howard",
+            "known_for": [
+                {
+                    "vote_average": 6.5,
+                    "vote_count": 11281,
+                    "id": 135397,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Jurassic World",
+                    "popularity": 93.582627,
+                    "poster_path": "/jjBgi2r5cRt36xF6iNUEhzscEcb.jpg",
+                    "original_language": "en",
+                    "original_title": "Jurassic World",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878,
+                        53
+                    ],
+                    "backdrop_path": "/t5KONotASgVKq4N19RyhIthWOPG.jpg",
+                    "adult": false,
+                    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+                    "release_date": "2015-06-06"
+                },
+                {
+                    "vote_average": 6,
+                    "vote_count": 5255,
+                    "id": 559,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Spider-Man 3",
+                    "popularity": 16.569494,
+                    "poster_path": "/btocnvK4l8a4BGS887ed3lsTFog.jpg",
+                    "original_language": "en",
+                    "original_title": "Spider-Man 3",
+                    "genre_ids": [
+                        14,
+                        28,
+                        12
+                    ],
+                    "backdrop_path": "/7IBpOrw0ATwL1AOV97mtsceDpYs.jpg",
+                    "adult": false,
+                    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains – including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+                    "release_date": "2007-05-01"
+                },
+                {
+                    "vote_average": 5.9,
+                    "vote_count": 3498,
+                    "id": 24021,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Twilight Saga: Eclipse",
+                    "popularity": 19.673552,
+                    "poster_path": "/4IIFFKd9vxrlicNbAPS8ONEgIFp.jpg",
+                    "original_language": "en",
+                    "original_title": "The Twilight Saga: Eclipse",
+                    "genre_ids": [
+                        12,
+                        14,
+                        18,
+                        10749
+                    ],
+                    "backdrop_path": "/lKCZYVQQb7Agw6WR25WvQBFKJmK.jpg",
+                    "adult": false,
+                    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+                    "release_date": "2010-06-23"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 21.915127,
+            "id": 9827,
+            "profile_path": "/laJdQNmsuR2iblYUggEqr49LvwJ.jpg",
+            "name": "Rose Byrne",
+            "known_for": [
+                {
+                    "vote_average": 7.2,
+                    "vote_count": 6625,
+                    "id": 49538,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "X-Men: First Class",
+                    "popularity": 1.027117,
+                    "poster_path": "/7SSm7BfzFoVzmd6fCDccj7qRxc8.jpg",
+                    "original_language": "en",
+                    "original_title": "X-Men: First Class",
+                    "genre_ids": [
+                        28,
+                        878,
+                        12
+                    ],
+                    "backdrop_path": "/39nstYsfjR6ggyKTtB4Joga2fs8.jpg",
+                    "adult": false,
+                    "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+                    "release_date": "2011-05-24"
+                },
+                {
+                    "vote_average": 6.5,
+                    "vote_count": 6432,
+                    "id": 246655,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "X-Men: Apocalypse",
+                    "popularity": 29.570369,
+                    "poster_path": "/zSouWWrySXshPCT4t3UKCQGayyo.jpg",
+                    "original_language": "en",
+                    "original_title": "X-Men: Apocalypse",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878,
+                        14
+                    ],
+                    "backdrop_path": "/oQWWth5AOtbWG9o8SCAviGcADed.jpg",
+                    "adult": false,
+                    "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+                    "release_date": "2016-05-18"
+                },
+                {
+                    "vote_average": 6.5,
+                    "vote_count": 5652,
+                    "id": 1894,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Star Wars: Episode II - Attack of the Clones",
+                    "popularity": 10.99419,
+                    "poster_path": "/2vcNFtrZXNwIcBgH5e2xXCmVR8t.jpg",
+                    "original_language": "en",
+                    "original_title": "Star Wars: Episode II - Attack of the Clones",
+                    "genre_ids": [
+                        12,
+                        28,
+                        878
+                    ],
+                    "backdrop_path": "/1Slt26IGf2XHqv8xjEJ7LMZqCYb.jpg",
+                    "adult": false,
+                    "overview": "Ten years after the invasion of Naboo, the galaxy is on the brink of civil war. Under the leadership of a renegade Jedi named Count Dooku, thousands of solar systems threaten to break away from the Galactic Republic. When an assassination attempt is made on Senator Padmé Amidala, the former Queen of Naboo, twenty-year-old Jedi apprentice Anakin Skywalker is assigned to protect her. In the course of his mission, Anakin discovers his love for Padmé as well as his own darker side. Soon, Anakin, Padmé, and Obi-Wan Kenobi are drawn into the heart of the Separatist movement and the beginning of the Clone Wars.",
+                    "release_date": "2002-05-15"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 20.502477,
+            "id": 73968,
+            "profile_path": "/hErUwonrQgY5Y7RfxOfv8Fq11MB.jpg",
+            "name": "Henry Cavill",
+            "known_for": [
+                {
+                    "vote_average": 5.8,
+                    "vote_count": 9629,
+                    "id": 209112,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Batman v Superman: Dawn of Justice",
+                    "popularity": 29.027554,
+                    "poster_path": "/cGOPbv9wA5gEejkUN892JrveARt.jpg",
+                    "original_language": "en",
+                    "original_title": "Batman v Superman: Dawn of Justice",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14
+                    ],
+                    "backdrop_path": "/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg",
+                    "adult": false,
+                    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+                    "release_date": "2016-03-23"
+                },
+                {
+                    "vote_average": 6.5,
+                    "vote_count": 8020,
+                    "id": 49521,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Man of Steel",
+                    "popularity": 17.596777,
+                    "poster_path": "/xWlaTLnD8NJMTT9PGOD9z5re1SL.jpg",
+                    "original_language": "en",
+                    "original_title": "Man of Steel",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "backdrop_path": "/jYLh4mdOqkt30i7LTFs3o02UcGF.jpg",
+                    "adult": false,
+                    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+                    "release_date": "2013-06-12"
+                },
+                {
+                    "vote_average": 6.3,
+                    "vote_count": 4864,
+                    "id": 141052,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Justice League",
+                    "popularity": 39.804995,
+                    "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+                    "original_language": "en",
+                    "original_title": "Justice League",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "backdrop_path": "/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
+                    "adult": false,
+                    "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+                    "release_date": "2017-11-15"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 19.854671,
+            "id": 74568,
+            "profile_path": "/lrhth7yK9p3vy6p7AabDUM1THKl.jpg",
+            "name": "Chris Hemsworth",
+            "known_for": [
+                {
+                    "vote_average": 7.5,
+                    "vote_count": 15207,
+                    "id": 24428,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Avengers",
+                    "popularity": 48.649315,
+                    "poster_path": "/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",
+                    "original_language": "en",
+                    "original_title": "The Avengers",
+                    "genre_ids": [
+                        878,
+                        28,
+                        12
+                    ],
+                    "backdrop_path": "/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
+                    "adult": false,
+                    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                    "release_date": "2012-04-25"
+                },
+                {
+                    "vote_average": 7.3,
+                    "vote_count": 9668,
+                    "id": 99861,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Avengers: Age of Ultron",
+                    "popularity": 34.338498,
+                    "poster_path": "/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
+                    "original_language": "en",
+                    "original_title": "Avengers: Age of Ultron",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "backdrop_path": "/rFtsE7Lhlc2jRWF7SRAU0fvrveQ.jpg",
+                    "adult": false,
+                    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                    "release_date": "2015-04-22"
+                },
+                {
+                    "vote_average": 6.7,
+                    "vote_count": 9387,
+                    "id": 10195,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Thor",
+                    "popularity": 38.821434,
+                    "poster_path": "/bIuOWTtyFPjsFDevqvF3QrD1aun.jpg",
+                    "original_language": "en",
+                    "original_title": "Thor",
+                    "genre_ids": [
+                        12,
+                        14,
+                        28
+                    ],
+                    "backdrop_path": "/LvmmDZxkTDqp0DX7mUo621ahdX.jpg",
+                    "adult": false,
+                    "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+                    "release_date": "2011-04-21"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 19.318597,
+            "id": 17832,
+            "profile_path": "/xddYLCp8zWLgYcQRck7REEgCUWl.jpg",
+            "name": "Carla Gugino",
+            "known_for": [
+                {
+                    "vote_average": 5.8,
+                    "vote_count": 9629,
+                    "id": 209112,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Batman v Superman: Dawn of Justice",
+                    "popularity": 29.027554,
+                    "poster_path": "/cGOPbv9wA5gEejkUN892JrveARt.jpg",
+                    "original_language": "en",
+                    "original_title": "Batman v Superman: Dawn of Justice",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14
+                    ],
+                    "backdrop_path": "/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg",
+                    "adult": false,
+                    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+                    "release_date": "2016-03-23"
+                },
+                {
+                    "vote_average": 6.5,
+                    "vote_count": 8020,
+                    "id": 49521,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Man of Steel",
+                    "popularity": 17.596777,
+                    "poster_path": "/xWlaTLnD8NJMTT9PGOD9z5re1SL.jpg",
+                    "original_language": "en",
+                    "original_title": "Man of Steel",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "backdrop_path": "/jYLh4mdOqkt30i7LTFs3o02UcGF.jpg",
+                    "adult": false,
+                    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+                    "release_date": "2013-06-12"
+                },
+                {
+                    "vote_average": 6.4,
+                    "vote_count": 4305,
+                    "id": 1593,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Night at the Museum",
+                    "popularity": 17.065042,
+                    "poster_path": "/NUbCSwy2EQ9Z6psUjPqr3WdVI2.jpg",
+                    "original_language": "en",
+                    "original_title": "Night at the Museum",
+                    "genre_ids": [
+                        28,
+                        12,
+                        35,
+                        10751,
+                        14
+                    ],
+                    "backdrop_path": "/fDuTrT0qJUgEJjexaZOce4kmO0V.jpg",
+                    "adult": false,
+                    "overview": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits. Larry tries desperately to keep the museum under control, but he's fighting a losing battle until President Teddy Roosevelt comes to the rescue.",
+                    "release_date": "2006-10-20"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 19.015252,
+            "id": 227454,
+            "profile_path": "/q5PMBDNAFdAgeFsLDI2pQ2Fr6a6.jpg",
+            "name": "Alicia Vikander",
+            "known_for": [
+                {
+                    "vote_average": 7.6,
+                    "vote_count": 6391,
+                    "id": 264660,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Ex Machina",
+                    "popularity": 18.81224,
+                    "poster_path": "/btbRB7BrD887j5NrvjxceRDmaot.jpg",
+                    "original_language": "en",
+                    "original_title": "Ex Machina",
+                    "genre_ids": [
+                        18,
+                        878
+                    ],
+                    "backdrop_path": "/9X3cDZb4GYGQeOnZHLwMcCFz2Ro.jpg",
+                    "adult": false,
+                    "overview": "Caleb, a 26 year old coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+                    "release_date": "2015-01-21"
+                },
+                {
+                    "vote_average": 6,
+                    "vote_count": 2953,
+                    "id": 324668,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Jason Bourne",
+                    "popularity": 16.525055,
+                    "poster_path": "/lFSSLTlFozwpaGlO31OoUeirBgQ.jpg",
+                    "original_language": "en",
+                    "original_title": "Jason Bourne",
+                    "genre_ids": [
+                        28,
+                        53
+                    ],
+                    "backdrop_path": "/dtFiuavnsnl0krJAeSmGAOFAhw2.jpg",
+                    "adult": false,
+                    "overview": "The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past.",
+                    "release_date": "2016-07-27"
+                },
+                {
+                    "vote_average": 7.1,
+                    "vote_count": 2901,
+                    "id": 203801,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Man from U.N.C.L.E.",
+                    "popularity": 14.455826,
+                    "poster_path": "/5ttOaThDVmTpV8iragbrhdfxEep.jpg",
+                    "original_language": "en",
+                    "original_title": "The Man from U.N.C.L.E.",
+                    "genre_ids": [
+                        35,
+                        28,
+                        12
+                    ],
+                    "backdrop_path": "/oS1Ck6sbBnIReyactTdFlFF2Wkh.jpg",
+                    "adult": false,
+                    "overview": "At the height of the Cold War, a mysterious criminal organization plans to use nuclear weapons and technology to upset the fragile balance of power between the United States and Soviet Union. CIA agent Napoleon Solo and KGB agent Illya Kuryakin are forced to put aside their hostilities and work together to stop the evildoers in their tracks. The duo's only lead is the daughter of a missing German scientist, whom they must find soon to prevent a global catastrophe.",
+                    "release_date": "2015-08-13"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 18.206905,
+            "id": 72129,
+            "profile_path": "/naZyy9IqAQDaAbr1kYShLdg6aPR.jpg",
+            "name": "Jennifer Lawrence",
+            "known_for": [
+                {
+                    "vote_average": 7,
+                    "vote_count": 11933,
+                    "id": 70160,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Hunger Games",
+                    "popularity": 12.926355,
+                    "poster_path": "/iLJdwmzrHFjFwI5lvYAT1gcpRuA.jpg",
+                    "original_language": "en",
+                    "original_title": "The Hunger Games",
+                    "genre_ids": [
+                        878,
+                        12,
+                        14
+                    ],
+                    "backdrop_path": "/1LTLrl06uII4w2BTpnQnmWwrKi.jpg",
+                    "adult": false,
+                    "overview": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which “Tributes” must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If she’s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.",
+                    "release_date": "2012-03-12"
+                },
+                {
+                    "vote_average": 7.4,
+                    "vote_count": 8760,
+                    "id": 101299,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Hunger Games: Catching Fire",
+                    "popularity": 22.852025,
+                    "poster_path": "/Hn0KgefVEp0GkdTexS6gfKTMfi.jpg",
+                    "original_language": "en",
+                    "original_title": "The Hunger Games: Catching Fire",
+                    "genre_ids": [
+                        12,
+                        28,
+                        878
+                    ],
+                    "backdrop_path": "/wRCPG1lsgfTFkWJ7G3eWgxCgv0C.jpg",
+                    "adult": false,
+                    "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
+                    "release_date": "2013-11-15"
+                },
+                {
+                    "vote_average": 7.5,
+                    "vote_count": 7977,
+                    "id": 127585,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "X-Men: Days of Future Past",
+                    "popularity": 28.530073,
+                    "poster_path": "/qKkFk9HELmABpcPoc1HHZGIxQ5a.jpg",
+                    "original_language": "en",
+                    "original_title": "X-Men: Days of Future Past",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "backdrop_path": "/5LBcSLHAtEIIgvNkA2dPmYH5wR7.jpg",
+                    "adult": false,
+                    "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+                    "release_date": "2014-05-15"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 17.444336,
+            "id": 3223,
+            "profile_path": "/1YjdSym1jTG7xjHSI0yGGWEsw5i.jpg",
+            "name": "Robert Downey Jr.",
+            "known_for": [
+                {
+                    "vote_average": 7.5,
+                    "vote_count": 15207,
+                    "id": 24428,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Avengers",
+                    "popularity": 48.649315,
+                    "poster_path": "/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",
+                    "original_language": "en",
+                    "original_title": "The Avengers",
+                    "genre_ids": [
+                        878,
+                        28,
+                        12
+                    ],
+                    "backdrop_path": "/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
+                    "adult": false,
+                    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                    "release_date": "2012-04-25"
+                },
+                {
+                    "vote_average": 7.5,
+                    "vote_count": 11775,
+                    "id": 1726,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Iron Man",
+                    "popularity": 30.269821,
+                    "poster_path": "/848chlIWVT41VtAAgyh9bWymAYb.jpg",
+                    "original_language": "en",
+                    "original_title": "Iron Man",
+                    "genre_ids": [
+                        28,
+                        878,
+                        12
+                    ],
+                    "backdrop_path": "/ZQixhAZx6fH1VNafFXsqa1B8QI.jpg",
+                    "adult": false,
+                    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+                    "release_date": "2008-04-30"
+                },
+                {
+                    "vote_average": 6.9,
+                    "vote_count": 11143,
+                    "id": 68721,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Iron Man 3",
+                    "popularity": 25.518134,
+                    "poster_path": "/1Ilv6ryHUv6rt9zIsbSEJUmmbEi.jpg",
+                    "original_language": "en",
+                    "original_title": "Iron Man 3",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "backdrop_path": "/n9X2DKItL3V0yq1q1jrk8z5UAki.jpg",
+                    "adult": false,
+                    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+                    "release_date": "2013-04-18"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 16.743654,
+            "id": 4785,
+            "profile_path": "/m8p62pvkVtPxkfAIJhb5AgGw8kA.jpg",
+            "name": "Jeff Goldblum",
+            "known_for": [
+                {
+                    "vote_average": 7.6,
+                    "vote_count": 8561,
+                    "id": 283995,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Guardians of the Galaxy Vol. 2",
+                    "popularity": 44.590932,
+                    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 2",
+                    "genre_ids": [
+                        28,
+                        12,
+                        35,
+                        878
+                    ],
+                    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                    "adult": false,
+                    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                    "release_date": "2017-04-19"
+                },
+                {
+                    "vote_average": 7.8,
+                    "vote_count": 6714,
+                    "id": 329,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Jurassic Park",
+                    "popularity": 40.773512,
+                    "poster_path": "/c414cDeQ9b6qLPLeKmiJuLDUREJ.jpg",
+                    "original_language": "en",
+                    "original_title": "Jurassic Park",
+                    "genre_ids": [
+                        12,
+                        878
+                    ],
+                    "backdrop_path": "/8LZ0r7r2SdJIApRvGo2k6CXHq8x.jpg",
+                    "adult": false,
+                    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+                    "release_date": "1993-06-11"
+                },
+                {
+                    "vote_average": 7.5,
+                    "vote_count": 6985,
+                    "id": 284053,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Thor: Ragnarok",
+                    "popularity": 99.677274,
+                    "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                    "original_language": "en",
+                    "original_title": "Thor: Ragnarok",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878,
+                        35
+                    ],
+                    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+                    "adult": false,
+                    "overview": "Thor is on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the prophecy of destruction to his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+                    "release_date": "2017-10-25"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 15.771072,
+            "id": 48,
+            "profile_path": "/iIxP2IzvcLgr5WaTBD4UfSqaV3q.jpg",
+            "name": "Sean Bean",
+            "known_for": [
+                {
+                    "vote_average": 8.2,
+                    "vote_count": 11367,
+                    "id": 120,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Lord of the Rings: The Fellowship of the Ring",
+                    "popularity": 35.695484,
+                    "poster_path": "/bxVxZb5O9OxCO0oRUNdCnpy9NST.jpg",
+                    "original_language": "en",
+                    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+                    "genre_ids": [
+                        12,
+                        14,
+                        28
+                    ],
+                    "backdrop_path": "/pIUvQ9Ed35wlWhY2oU6OmwEsmzG.jpg",
+                    "adult": false,
+                    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+                    "release_date": "2001-12-18"
+                },
+                {
+                    "vote_average": 8.3,
+                    "vote_count": 10411,
+                    "id": 122,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Lord of the Rings: The Return of the King",
+                    "popularity": 27.201545,
+                    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+                    "original_language": "en",
+                    "original_title": "The Lord of the Rings: The Return of the King",
+                    "genre_ids": [
+                        12,
+                        14,
+                        28
+                    ],
+                    "backdrop_path": "/8BPZO0Bf8TeAy8znF43z8soK3ys.jpg",
+                    "adult": false,
+                    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam bring the ring closer to the heart of Mordor, the dark lord's realm.",
+                    "release_date": "2003-12-01"
+                },
+                {
+                    "vote_average": 8.2,
+                    "vote_count": 9812,
+                    "id": 121,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Lord of the Rings: The Two Towers",
+                    "popularity": 27.681419,
+                    "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+                    "original_language": "en",
+                    "original_title": "The Lord of the Rings: The Two Towers",
+                    "genre_ids": [
+                        12,
+                        14,
+                        28
+                    ],
+                    "backdrop_path": "/dG4BmM32XJmKiwopLDQmvXEhuHB.jpg",
+                    "adult": false,
+                    "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+                    "release_date": "2002-12-18"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 14.773211,
+            "id": 18918,
+            "profile_path": "/akweMz59qsSoPUJYe7QpjAc2rQp.jpg",
+            "name": "Dwayne Johnson",
+            "known_for": [
+                {
+                    "vote_average": 6.7,
+                    "vote_count": 6053,
+                    "id": 82992,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Fast & Furious 6",
+                    "popularity": 1.185887,
+                    "poster_path": "/b9gTJKLdSbwcQRKzmqMq3dMfRwI.jpg",
+                    "original_language": "en",
+                    "original_title": "Fast & Furious 6",
+                    "genre_ids": [
+                        28,
+                        53,
+                        80
+                    ],
+                    "backdrop_path": "/qjfE7SkPXpqFs8FX8rIaG6eO2aK.jpg",
+                    "adult": false,
+                    "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
+                    "release_date": "2013-05-21"
+                },
+                {
+                    "vote_average": 7.3,
+                    "vote_count": 5307,
+                    "id": 168259,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Furious 7",
+                    "popularity": 23.076935,
+                    "poster_path": "/dCgm7efXDmiABSdWDHBDBx2jwmn.jpg",
+                    "original_language": "en",
+                    "original_title": "Furious 7",
+                    "genre_ids": [
+                        28,
+                        80,
+                        53,
+                        18
+                    ],
+                    "backdrop_path": "/ypyeMfKydpyuuTMdp36rMlkGDUL.jpg",
+                    "adult": false,
+                    "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+                    "release_date": "2015-04-01"
+                },
+                {
+                    "vote_average": 6.8,
+                    "vote_count": 5056,
+                    "id": 337339,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Fate of the Furious",
+                    "popularity": 30.931248,
+                    "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+                    "original_language": "en",
+                    "original_title": "The Fate of the Furious",
+                    "genre_ids": [
+                        12,
+                        28,
+                        80,
+                        53,
+                        9648
+                    ],
+                    "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+                    "adult": false,
+                    "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+                    "release_date": "2017-04-12"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 14.385179,
+            "id": 10431,
+            "profile_path": "/7DbG2AO3nygHAkNC866HLPKkxv9.jpg",
+            "name": "Jennifer Jason Leigh",
+            "known_for": [
+                {
+                    "vote_average": 7.6,
+                    "vote_count": 5980,
+                    "id": 273248,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Hateful Eight",
+                    "popularity": 14.157516,
+                    "poster_path": "/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg",
+                    "original_language": "en",
+                    "original_title": "The Hateful Eight",
+                    "genre_ids": [
+                        80,
+                        18,
+                        9648,
+                        37
+                    ],
+                    "backdrop_path": "/sSvgNBeBNzAuKl8U8sP50ETJPgx.jpg",
+                    "adult": false,
+                    "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+                    "release_date": "2015-12-25"
+                },
+                {
+                    "vote_average": 6.3,
+                    "vote_count": 2212,
+                    "id": 300668,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Annihilation",
+                    "popularity": 33.261047,
+                    "poster_path": "/d3qcpfNwbAMCNqWDHzPQsUYiUgS.jpg",
+                    "original_language": "en",
+                    "original_title": "Annihilation",
+                    "genre_ids": [
+                        9648,
+                        878,
+                        53,
+                        27
+                    ],
+                    "backdrop_path": "/5zfVNTrkhMu673zma6qhFzG01ig.jpg",
+                    "adult": false,
+                    "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+                    "release_date": "2018-02-22"
+                },
+                {
+                    "vote_average": 7.4,
+                    "vote_count": 1793,
+                    "id": 4553,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Machinist",
+                    "popularity": 10.151634,
+                    "poster_path": "/2tYr40n1ZjbMfYq20ieiAPsSe5.jpg",
+                    "original_language": "en",
+                    "original_title": "The Machinist",
+                    "genre_ids": [
+                        53,
+                        18
+                    ],
+                    "backdrop_path": "/uqJKqddBjETEv4LsXCYLbHeIui7.jpg",
+                    "adult": false,
+                    "overview": "The Machinist is the story of Trevor Reznik, a lathe-operator who is dying of insomnia. In a machine shop, occupational hazards are bad enough under normal circumstances; yet for Trevor the risks are compounded by fatigue. Trevor has lost the ability to sleep. This is no ordinary insomnia...",
+                    "release_date": "2004-02-09"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 14.334347,
+            "id": 109513,
+            "profile_path": "/s544zfrPI1Dnk60t1x1KUXF4iH3.jpg",
+            "name": "Alexandra Daddario",
+            "known_for": [
+                {
+                    "vote_average": 6,
+                    "vote_count": 4098,
+                    "id": 254128,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "San Andreas",
+                    "popularity": 23.827253,
+                    "poster_path": "/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg",
+                    "original_language": "en",
+                    "original_title": "San Andreas",
+                    "genre_ids": [
+                        28,
+                        18,
+                        53
+                    ],
+                    "backdrop_path": "/6MBI4R5IDLZJcm17mOUfwOg8pLm.jpg",
+                    "adult": false,
+                    "overview": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+                    "release_date": "2015-05-27"
+                },
+                {
+                    "vote_average": 6,
+                    "vote_count": 3318,
+                    "id": 339846,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Baywatch",
+                    "popularity": 17.344882,
+                    "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+                    "original_language": "en",
+                    "original_title": "Baywatch",
+                    "genre_ids": [
+                        28,
+                        35
+                    ],
+                    "backdrop_path": "/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+                    "adult": false,
+                    "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+                    "release_date": "2017-05-12"
+                },
+                {
+                    "vote_average": 6,
+                    "vote_count": 2947,
+                    "id": 32657,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+                    "popularity": 14.33529,
+                    "poster_path": "/5NhyXkodMzDRW8uqtPqlxJsoBhf.jpg",
+                    "original_language": "en",
+                    "original_title": "Percy Jackson & the Olympians: The Lightning Thief",
+                    "genre_ids": [
+                        12,
+                        14,
+                        10751
+                    ],
+                    "backdrop_path": "/uHQzRMqhs1bA1fLEP6J1Qc19Nfg.jpg",
+                    "adult": false,
+                    "overview": "Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
+                    "release_date": "2010-02-01"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 14.262064,
+            "id": 1245,
+            "profile_path": "/oqvusJfmH4zN2LgdCjmB2TxetOd.jpg",
+            "name": "Scarlett Johansson",
+            "known_for": [
+                {
+                    "vote_average": 7.5,
+                    "vote_count": 15207,
+                    "id": 24428,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Avengers",
+                    "popularity": 48.649315,
+                    "poster_path": "/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",
+                    "original_language": "en",
+                    "original_title": "The Avengers",
+                    "genre_ids": [
+                        878,
+                        28,
+                        12
+                    ],
+                    "backdrop_path": "/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
+                    "adult": false,
+                    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+                    "release_date": "2012-04-25"
+                },
+                {
+                    "vote_average": 7.2,
+                    "vote_count": 10379,
+                    "id": 271110,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Captain America: Civil War",
+                    "popularity": 36.35105,
+                    "poster_path": "/kSBXou5Ac7vEqKd97wotJumyJvU.jpg",
+                    "original_language": "en",
+                    "original_title": "Captain America: Civil War",
+                    "genre_ids": [
+                        12,
+                        28,
+                        878
+                    ],
+                    "backdrop_path": "/m5O3SZvQ6EgD5XXXLPIP1wLppeW.jpg",
+                    "adult": false,
+                    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+                    "release_date": "2016-04-27"
+                },
+                {
+                    "vote_average": 7.3,
+                    "vote_count": 9668,
+                    "id": 99861,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Avengers: Age of Ultron",
+                    "popularity": 34.338498,
+                    "poster_path": "/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
+                    "original_language": "en",
+                    "original_title": "Avengers: Age of Ultron",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "backdrop_path": "/rFtsE7Lhlc2jRWF7SRAU0fvrveQ.jpg",
+                    "adult": false,
+                    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                    "release_date": "2015-04-22"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 14.16619,
+            "id": 234352,
+            "profile_path": "/tN5jVaEYV52zNC8e5MJAXjvti3w.jpg",
+            "name": "Margot Robbie",
+            "known_for": [
+                {
+                    "vote_average": 5.9,
+                    "vote_count": 10583,
+                    "id": 297761,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Suicide Squad",
+                    "popularity": 17.872858,
+                    "poster_path": "/e1mjopzAS2KNsvpbpahQ1a6SkSn.jpg",
+                    "original_language": "en",
+                    "original_title": "Suicide Squad",
+                    "genre_ids": [
+                        28,
+                        12,
+                        80,
+                        14,
+                        878
+                    ],
+                    "backdrop_path": "/ndlQ2Cuc3cjTL7lTynw6I4boP4S.jpg",
+                    "adult": false,
+                    "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+                    "release_date": "2016-08-02"
+                },
+                {
+                    "vote_average": 7.9,
+                    "vote_count": 9253,
+                    "id": 106646,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Wolf of Wall Street",
+                    "popularity": 21.873929,
+                    "poster_path": "/vK1o5rZGqxyovfIhZyMELhk03wO.jpg",
+                    "original_language": "en",
+                    "original_title": "The Wolf of Wall Street",
+                    "genre_ids": [
+                        80,
+                        18,
+                        35
+                    ],
+                    "backdrop_path": "/rP36Rx5RQh0rmH2ynEIaG8DxbV2.jpg",
+                    "adult": false,
+                    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+                    "release_date": "2013-12-25"
+                },
+                {
+                    "vote_average": 7.3,
+                    "vote_count": 3551,
+                    "id": 318846,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Big Short",
+                    "popularity": 11.815959,
+                    "poster_path": "/p11Ftd4VposrAzthkhF53ifYZRl.jpg",
+                    "original_language": "en",
+                    "original_title": "The Big Short",
+                    "genre_ids": [
+                        35,
+                        18
+                    ],
+                    "backdrop_path": "/6UyMLbe0lAPqfZLtVllAwBNFIis.jpg",
+                    "adult": false,
+                    "overview": "The men who made millions from a global economic meltdown.",
+                    "release_date": "2015-12-11"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 13.959702,
+            "id": 14386,
+            "profile_path": "/cOFQlPKAmo2DlnZwMCYo3b7sI2K.jpg",
+            "name": "Beyoncé Knowles",
+            "known_for": [
+                {
+                    "vote_average": 6.4,
+                    "vote_count": 1366,
+                    "id": 116711,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Epic",
+                    "popularity": 9.568909,
+                    "poster_path": "/dUeXOJCpfWmZd9KaPkq2122J1ji.jpg",
+                    "original_language": "en",
+                    "original_title": "Epic",
+                    "genre_ids": [
+                        16,
+                        12,
+                        10751,
+                        14
+                    ],
+                    "backdrop_path": "/v6w2o3ji8aVLph6zNgR5yDGQfmS.jpg",
+                    "adult": false,
+                    "overview": "A teenager finds herself transported to a deep forest setting where a battle between the forces of good and the forces of evil is taking place. She bands together with a rag-tag group characters in order to save their world -- and ours.",
+                    "release_date": "2013-05-15"
+                },
+                {
+                    "vote_average": 5.9,
+                    "vote_count": 1329,
+                    "id": 818,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Austin Powers in Goldmember",
+                    "popularity": 10.719494,
+                    "poster_path": "/tFR7dTbX5BsmoUwKHfa2cWoZbwK.jpg",
+                    "original_language": "en",
+                    "original_title": "Austin Powers in Goldmember",
+                    "genre_ids": [
+                        35,
+                        80,
+                        878
+                    ],
+                    "backdrop_path": "/mzZraP6PV34eVjB8giKbKIMXVeW.jpg",
+                    "adult": false,
+                    "overview": "The world's most shagadelic spy continues his fight against Dr. Evil. This time, the diabolical doctor and his clone, Mini-Me, team up with a new foe -- '70s kingpin Goldmember. While pursuing the team of villains to stop them from world domination, Austin gets help from his dad and an old girlfriend.",
+                    "release_date": "2002-07-26"
+                },
+                {
+                    "vote_average": 5.7,
+                    "vote_count": 764,
+                    "id": 12096,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Pink Panther",
+                    "popularity": 8.716924,
+                    "poster_path": "/eNzbcO8Mps96Zycg6DSFn9b1aO1.jpg",
+                    "original_language": "en",
+                    "original_title": "The Pink Panther",
+                    "genre_ids": [
+                        28,
+                        35,
+                        80,
+                        9648,
+                        10751
+                    ],
+                    "backdrop_path": "/xT9awVPuIh8yWx1b2ODTpngY30M.jpg",
+                    "adult": false,
+                    "overview": "When the coach of the France soccer team is killed by a poisoned dart in the stadium in the end of a game, and his expensive and huge ring with the diamond Pink Panther disappears, the ambitious Chief Inspector Dreyfus assigns the worst police inspector Jacques Clouseau to the case.",
+                    "release_date": "2006-02-10"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 13.783975,
+            "id": 11150,
+            "profile_path": "/jaUQhGVmemkSyS5O0fcRkhGTOUq.jpg",
+            "name": "Gina Gershon",
+            "known_for": [
+                {
+                    "vote_average": 6.9,
+                    "vote_count": 2049,
+                    "id": 754,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Face/Off",
+                    "popularity": 11.643428,
+                    "poster_path": "/q1i8QHiHZ1cukG5iOxai8pydmoa.jpg",
+                    "original_language": "en",
+                    "original_title": "Face/Off",
+                    "genre_ids": [
+                        28,
+                        80,
+                        878,
+                        53
+                    ],
+                    "backdrop_path": "/kwsnFHKEkqlREvEl2RNvxGmEbFt.jpg",
+                    "adult": false,
+                    "overview": "An antiterrorism agent goes under the knife to acquire the likeness of a terrorist and gather details about a bombing plot. When the terrorist escapes custody, he undergoes surgery to look like the agent so he can get close to the agent's family.",
+                    "release_date": "1997-06-27"
+                },
+                {
+                    "vote_average": 7,
+                    "vote_count": 1436,
+                    "id": 6023,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "P.S. I Love You",
+                    "popularity": 7.962199,
+                    "poster_path": "/esfuYEvv7WrLvXNkCg7MCufEEdH.jpg",
+                    "original_language": "en",
+                    "original_title": "P.S. I Love You",
+                    "genre_ids": [
+                        18,
+                        10749
+                    ],
+                    "backdrop_path": "/75ybu5PY5ujvghe1hbn5x1DdESl.jpg",
+                    "adult": false,
+                    "overview": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+                    "release_date": "2007-11-15"
+                },
+                {
+                    "vote_average": 6,
+                    "vote_count": 1266,
+                    "id": 80271,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "LOL",
+                    "popularity": 10.439392,
+                    "poster_path": "/vlG6iHT1RuT9xLj17SmNNUd8jJZ.jpg",
+                    "original_language": "en",
+                    "original_title": "LOL",
+                    "genre_ids": [
+                        18,
+                        35,
+                        10749
+                    ],
+                    "backdrop_path": "/qFdqdBiqTsfXYvKDeCfxTucxQzU.jpg",
+                    "adult": false,
+                    "overview": "In a world connected by YouTube, iTunes, and Facebook, Lola and her friends navigate the peer pressures of high school romance and friendship while dodging their sometimes overbearing and confused parents. When Lola's mom, Anne, \"accidentally\" reads her teenage daughter's racy journal, she realizes just how wide their communication gap has grown.",
+                    "release_date": "2012-02-10"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 13.447623,
+            "id": 16851,
+            "profile_path": "/x8KKnvHyPvH16M6waAnY1OeCtA8.jpg",
+            "name": "Josh Brolin",
+            "known_for": [
+                {
+                    "vote_average": 7.9,
+                    "vote_count": 13581,
+                    "id": 118340,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Guardians of the Galaxy",
+                    "popularity": 52.006274,
+                    "poster_path": "/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy",
+                    "genre_ids": [
+                        28,
+                        878,
+                        12
+                    ],
+                    "backdrop_path": "/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg",
+                    "adult": false,
+                    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                    "release_date": "2014-07-30"
+                },
+                {
+                    "vote_average": 7.3,
+                    "vote_count": 9668,
+                    "id": 99861,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Avengers: Age of Ultron",
+                    "popularity": 34.338498,
+                    "poster_path": "/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg",
+                    "original_language": "en",
+                    "original_title": "Avengers: Age of Ultron",
+                    "genre_ids": [
+                        28,
+                        12,
+                        878
+                    ],
+                    "backdrop_path": "/rFtsE7Lhlc2jRWF7SRAU0fvrveQ.jpg",
+                    "adult": false,
+                    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+                    "release_date": "2015-04-22"
+                },
+                {
+                    "vote_average": 6.3,
+                    "vote_count": 5204,
+                    "id": 41154,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Men in Black 3",
+                    "popularity": 15.310394,
+                    "poster_path": "/l9hrvXyGq19f6jPRZhSVRibTMwW.jpg",
+                    "original_language": "en",
+                    "original_title": "Men in Black 3",
+                    "genre_ids": [
+                        28,
+                        35,
+                        878
+                    ],
+                    "backdrop_path": "/mhokitPCejvcZb0r3SHURZDp7OO.jpg",
+                    "adult": false,
+                    "overview": "Agents J (Will Smith) and K (Tommy Lee Jones) are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K's life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K (Josh Brolin) to save his partner, the agency, and the future of humankind.",
+                    "release_date": "2012-05-23"
+                }
+            ],
+            "adult": false
+        },
+        {
+            "popularity": 13.352659,
+            "id": 51329,
+            "profile_path": "/6vQ9zsljjVGtz7smO9HErzarnCN.jpg",
+            "name": "Bradley Cooper",
+            "known_for": [
+                {
+                    "vote_average": 7.9,
+                    "vote_count": 13581,
+                    "id": 118340,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Guardians of the Galaxy",
+                    "popularity": 52.006274,
+                    "poster_path": "/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy",
+                    "genre_ids": [
+                        28,
+                        878,
+                        12
+                    ],
+                    "backdrop_path": "/bHarw8xrmQeqf3t8HpuMY7zoK4x.jpg",
+                    "adult": false,
+                    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+                    "release_date": "2014-07-30"
+                },
+                {
+                    "vote_average": 7.6,
+                    "vote_count": 8561,
+                    "id": 283995,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "Guardians of the Galaxy Vol. 2",
+                    "popularity": 44.590932,
+                    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+                    "original_language": "en",
+                    "original_title": "Guardians of the Galaxy Vol. 2",
+                    "genre_ids": [
+                        28,
+                        12,
+                        35,
+                        878
+                    ],
+                    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+                    "adult": false,
+                    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+                    "release_date": "2017-04-19"
+                },
+                {
+                    "vote_average": 7.2,
+                    "vote_count": 8193,
+                    "id": 18785,
+                    "video": false,
+                    "media_type": "movie",
+                    "title": "The Hangover",
+                    "popularity": 18.001807,
+                    "poster_path": "/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+                    "original_language": "en",
+                    "original_title": "The Hangover",
+                    "genre_ids": [
+                        35
+                    ],
+                    "backdrop_path": "/xxKd56iFbMeRQARUosTGgxKxrnF.jpg",
+                    "adult": false,
+                    "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+                    "release_date": "2009-06-02"
+                }
+            ],
+            "adult": false
+        }
+    ]
+}
