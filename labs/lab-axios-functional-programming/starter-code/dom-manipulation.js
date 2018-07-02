@@ -1,5 +1,5 @@
 // You can change that value, from 1 to 3
-let page = 1
+let page = 2
 
 // You shouldn't modidify the next lines
 
@@ -32,3 +32,6 @@ getNamesFiltered(page, "m")
 
 getActorNamesWithTheirKnownForMovies(page)
 .then(updateTheDom("getActorNamesWithTheirKnownForMovies"))
+
+getKnownForMovies(page)
+.then(updateTheDom("getKnownForMovies"))
