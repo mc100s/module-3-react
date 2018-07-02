@@ -44,7 +44,7 @@ First, understand what this function is doing.
 ```js
 // From api.js
 let service = axios.create({
-  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/labs/lab-axios-functional-programming/" 
+  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/master/labs/lab-axios-functional-programming/" 
 })
 
 // From api.js
@@ -74,7 +74,7 @@ function updateTheDom(elementId) {
 If we replace `updateTheDom` by its return value, this is what we have:
 ```js
 let service = axios.create({
-  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/labs/lab-axios-functional-programming/" 
+  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/master/labs/lab-axios-functional-programming/" 
 })
 
 function getTotalResults(page) {
@@ -96,7 +96,7 @@ getTotalResults(page)
 Now, if we replace `getTotalResults` by its return value, this is what we have:
 ```js
 let service = axios.create({
-  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/labs/lab-axios-functional-programming/" 
+  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/master/labs/lab-axios-functional-programming/" 
 })
 
 let page = 1
@@ -111,7 +111,7 @@ service.get(`page-${page}.json`)
 ```
 
 Now it's easier to understand:
-1. We use the API by calling `GET page-1.json` (you can do the same with your browser by going [here](https://raw.githubusercontent.com/mc100s/module-3-react/labs/lab-axios-functional-programming/page-1.json))
+1. We use the API by calling `GET page-1.json` (you can do the same with your browser by going [here](https://raw.githubusercontent.com/mc100s/module-3-react/master/labs/lab-axios-functional-programming/page-1.json))
 2. We give to the next promise the value `response.data`, that represents the JSON sent by the API
 3. We select the DOM element with the ID `getTotalResults` and we set its content to the value we have.
 

@@ -1,5 +1,5 @@
 let service = axios.create({
-  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/labs/lab-axios-functional-programming/" 
+  baseURL: "https://raw.githubusercontent.com/mc100s/module-3-react/master/labs/lab-axios-functional-programming/" 
 })
 
 function displayDataInTheConsole(page) {
