@@ -3,42 +3,42 @@ let service = axios.create({
 })
 
 function displayDataInTheConsole(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     console.log('response.data ==> ', response.data);
   })
 }
 
 function getTotalResults(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.total_results
   })
 }
 
 function getFirstResultName(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.results[0].name
   })
 }
 
 function getNames(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.results.map(x => x.name)
   })
 }
 
 function getIdsAndNames(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.results.map(x => `#${x.id} ${x.name}`)
   })
 }
 
 function getSortedNames(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.results
       .map(x => x.name)
@@ -47,7 +47,7 @@ function getSortedNames(page) {
 }
 
 function getNamesFiltered(page, searchTerm) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.results
       .map(x => x.name)
@@ -57,7 +57,7 @@ function getNamesFiltered(page, searchTerm) {
 
 
 function getActorNamesWithTheirKnownForMovies(page) {
-  return service.get(`result-${page}.json`)
+  return service.get(`page-${page}.json`)
   .then(response => {
     return response.data.results
       .map(x => {

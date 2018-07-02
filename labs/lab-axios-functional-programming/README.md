@@ -1,3 +1,9 @@
+<!-- 
+TODO:
+1) Add 2 cases for the search ("m" and "La")
+2) Give a more detailed example for iteration 8
+ -->
+
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Axios and functional programming
