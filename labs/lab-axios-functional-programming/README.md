@@ -11,9 +11,9 @@ The goal of this exercise is to play with the data given by a fake REST API abou
 We will play with a fake API that gives infromation about actors. 
 
 This API has only 3 endpoints:
-- `GET /page-1.json`
-- `GET /page-2.json`
-- `GET /page-3.json`
+- [`GET /page-1.json`](https://raw.githubusercontent.com/mc100s/training-labs-react/master/src/lab-axios-functional-programming/page-1.json)
+- [`GET /page-2.json`](https://raw.githubusercontent.com/mc100s/training-labs-react/master/src/lab-axios-functional-programming/page-2.json)
+- [`GET /page-3.json`](https://raw.githubusercontent.com/mc100s/training-labs-react/master/src/lab-axios-functional-programming/page-3.json)
 
 The base URL of this API is: https://raw.githubusercontent.com/mc100s/training-labs-react/master/src/lab-axios-functional-programming
 
