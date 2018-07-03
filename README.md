@@ -58,7 +58,7 @@ DE | Angular | Introduction
   - [Doc | Forms](https://reactjs.org/docs/forms.html) <!-- 10% -->
 
 
-<img src="svg/github.svg" width="20" height="13" /> [DE | lab-react-data-binding](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-data-binding)
+<img src="svg/github.svg" width="20" height="13" /> [DE | lab-react-data-binding](labs/lab-react-data-binding/)
 
 <!-- 
 Angular | Modules and NgModule
