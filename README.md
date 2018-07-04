@@ -100,7 +100,7 @@ DE | IronNutrition
   - [Doc | `match`](https://reacttraining.com/react-router/web/api/match)
 
 
-<img src="svg/github.svg" width="20" height="13" /> [DE | lab-react-wikicountries](https://github.com/mc100s/training-labs-react/tree/master/src/lab-react-wikicountries)
+<img src="svg/github.svg" width="20" height="13" /> [DE | lab-react-wikicountries](labs/lab-react-wikicountries)
 
 <!-- 
 Angular | Forms
