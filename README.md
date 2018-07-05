@@ -124,16 +124,6 @@ DE | Cinema Billboard
 <img src="svg/github.svg" width="20" height="13" />  Exercise | Try to reproduce Pokedex.org with pokeapi.co and axios
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> Express | Build a REST API
-  - [REST API Express](http://learn.ironhack.com/#/learning_unit/2507)
-
-
-<img src="svg/desktop.svg" width="20" height="13" /> React & Express | Backend / Frontend integration
-  - [React & Express | Frontend Backend Integration](https://github.com/mc100s/training-labs-react/blob/master/lessons/react-express-integration.md)
-
-
-<img src="svg/github.svg" width="20" height="13" />  [DE | MyRecipeBook](labs/lab-react-express-recipes/) 
-
 
 <!-- 
 Angular | Advanced Routing
@@ -147,8 +137,17 @@ DE | MyRecipeBook
 ## Day 5 | Friday
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> React & Express | Authentication
-  - [Authentication with JWT](https://github.com/ta-web-paris/auth-jwt-lab)
+<img src="svg/desktop.svg" width="20" height="13" /> [Express | Build a REST API]((http://learn.ironhack.com/#/learning_unit/2507))
+
+
+<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Frontend Backend Integration](lessons/5-2-react-express-integration.md)
+
+
+<img src="svg/github.svg" width="20" height="13" />  [DE | MyRecipeBook](labs/lab-react-express-recipes/) 
+
+
+
+<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Authentication](https://github.com/ta-web-paris/auth-jwt-lab)
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> [MERN Boilerplate](https://github.com/mc100s/mern-boilerplate)
@@ -189,3 +188,12 @@ Project #3: MEAN Application
 ## Day 7 | Tuesday
 
 <img src="svg/desktop.svg" width="20" height="13" /> Project #3: MERN Application
+
+
+## Complementary resources
+
+### Articles
+- [Why Not To Modify React State Directly](https://daveceddia.com/why-not-modify-react-state-directly/)
+
+### Code examples
+- [React Data Binding (with components A, B, C, D)](https://codesandbox.io/s/p7y3jk8pq0)
