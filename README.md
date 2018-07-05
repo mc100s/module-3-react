@@ -143,7 +143,7 @@ DE | MyRecipeBook
 <img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Frontend Backend Integration](lessons/5-2-react-express-integration.md)
 
 
-<img src="svg/github.svg" width="20" height="13" />  [DE | MyRecipeBook](labs/lab-react-express-recipes/) 
+<img src="svg/github.svg" width="20" height="13" />  [DE | MyRecipeBook](labs/lab-react-express-recipes/README.md) 
 
 
 
