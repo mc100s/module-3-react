@@ -150,7 +150,7 @@ DE | MyRecipeBook
 <img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Authentication](https://github.com/ta-web-paris/auth-jwt-lab)
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> [MERN Boilerplate](https://github.com/mc100s/mern-boilerplate)
+<img src="svg/desktop.svg" width="20" height="13" /> [**MERN Boilerplate**](https://github.com/mc100s/mern-boilerplate)
 
 
 <img src="svg/github.svg" width="20" height="13" /> [DE | IronForum](https://github.com/ironhack-labs/lab-angular-forum) (in the instructions, replace Angular by React)
