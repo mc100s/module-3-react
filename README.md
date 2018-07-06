@@ -137,7 +137,7 @@ DE | MyRecipeBook
 ## Day 5 | Friday
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> [Express | Build a REST API]((http://learn.ironhack.com/#/learning_unit/2507))
+<img src="svg/desktop.svg" width="20" height="13" /> [Express | Build a REST API](http://learn.ironhack.com/#/learning_unit/2507)
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Frontend Backend Integration](lessons/5-2-react-express-integration.md)
