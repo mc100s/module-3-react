@@ -169,7 +169,7 @@ DE | IronForum
 
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> React & Express | File Upload
+<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | File Upload](lessons/6-1-react-express-file-upload.md)
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> React & Express | Route Guards
