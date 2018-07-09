@@ -169,10 +169,10 @@ DE | IronForum
 
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | File Upload](lessons/6-1-react-express-file-upload.md)
+<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | File Upload (Optional)](lessons/6-1-react-express-file-upload.md)
 
 
-<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Route Guards](lessons/6-2-react-express-route-guards.md)
+<img src="svg/desktop.svg" width="20" height="13" /> [React & Express | Route Guards (Optional)](lessons/6-2-react-express-route-guards.md)
 
 
 <img src="svg/desktop.svg" width="20" height="13" /> React & Express | Deployment
