@@ -187,7 +187,12 @@ Project #3: MEAN Application
 
 ## Day 7 | Tuesday
 
-<img src="svg/desktop.svg" width="20" height="13" /> Project #3: MERN Application
+<img src="svg/desktop.svg" width="20" height="13" /> [Project #3: MERN Application](https://docs.google.com/presentation/d/1KToj2CB5XdLjCxnAJd3TIlmozx0PVVdiBlVcsO20Qqo/edit?usp=sharing)
+
+
+## Extra courses
+
+<img src="svg/desktop.svg" width="20" height="13" /> [React Bootstrap and SCSS](lessons/extra-react-bootstrap-and-scss.md)
 
 
 ## Complementary resources
