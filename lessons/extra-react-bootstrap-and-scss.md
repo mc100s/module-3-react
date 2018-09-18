@@ -86,7 +86,7 @@ As you can see if you look at your `package.json` this are the new commands:
 - `build`: Builds the css and build the scripts.
 
 
-Then you can create a file `client/src/styles/style.scss` that look like this:
+Then you can create a file `src/styles/style.scss` that look like this:
 ```scss
 // Your new color: here the primary color is a dark blue
 $primary: #425cbb;
@@ -106,6 +106,11 @@ $primary: #425cbb;
 Now, when you run your React application, you will have Bootstrap on your website with your own variables (different colors).
 
 Be careful, you should not include the original `bootstrap` in other files, such as `src/index.js`.
+
+In the end, you can import your `src/styles/style.css` file in `src/index.js`:
+```js
+import './styles/style.css';
+```
 
 
 ## Resources
