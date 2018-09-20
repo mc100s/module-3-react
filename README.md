@@ -195,6 +195,16 @@ Project #3: MEAN Application
 <img src="svg/desktop.svg" width="20" height="13" /> [React Bootstrap and SCSS](lessons/extra-react-bootstrap-and-scss.md)
 
 
+<img src="svg/github.svg" width="20" height="13" />  [`google-map-react` examples](https://github.com/mc100s/google-map-react-examples) 
+
+
+<img src="svg/github.svg" width="20" height="13" />  [react-small-exercises](https://github.com/mc100s/react-small-exercises) 
+
+
+<img src="svg/github.svg" width="20" height="13" />  [ironspace-reactstrap](https://github.com/mc100s/ironspace-reactstrap) 
+
+
+
 ## Complementary resources
 
 ### Articles
