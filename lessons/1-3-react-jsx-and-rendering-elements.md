@@ -31,5 +31,5 @@ TODO: Create exercise where they need to add `{}` and JSX -->
 
 ## [React | 3. Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
 
-The only thing to remember here is that `ReactDOM.render()` is a function we will use once in the future and that will display our React applciation.
+The only thing to remember here is that `ReactDOM.render()` is a function we will use once in the future and that will display our React application.
 
