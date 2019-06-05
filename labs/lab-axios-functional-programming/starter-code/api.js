@@ -12,9 +12,12 @@ function displayDataInTheConsole(page) {
 function getTotalResults(page) {
   return service.get(`page-${page}.json`)
   .then(response => {
+    
+
+
     // TODO: Iteration 1
     // Update that function so it only displays the value of "total_results" (18966)
-    return response.data // You should write it "response.data.something"
+    return response.data.total_results // You should write it "response.data.something"
   })
 }
 
@@ -23,14 +26,21 @@ function getFirstResultName(page) {
   .then(response => {
     // TODO: Iteration 2
     // Update that function so it only displays the name of the first actor
-    return response.data
+    return response.data.results[0].name
   })
 }
 
 function getNames(page) {
   return service.get(`page-${page}.json`)
   .then(response => {
+
     // TODO: Iteration 3
+    actorNames = []
+    response.data.results.forEach( (actor) =>{
+      return actorNames.push(actor.name)
+    });
+    return actorNames
+
   })
 }
 
@@ -38,27 +48,61 @@ function getIdsAndNames(page) {
   return service.get(`page-${page}.json`)
   .then(response => {
     // TODO: Iteration 4
+    actorNamesId = []
+    response.data.results.forEach( (actor) =>{
+      return actorNamesId.push(`${actor.id} ${actor.name} `)
+    });
+    return actorNamesId
+
   })
+
 }
 
 function getSortedNames(page) {
   return service.get(`page-${page}.json`)
   .then(response => {
     // TODO: Iteration 5
+        // TODO: Iteration 3
+        actorNames = []
+        response.data.results.forEach( (actor) =>{
+          return actorNames.push(actor.name)
+        });
+        return actorNames.sort()
   })
 }
 
 function getNamesFiltered(page, searchTerm) {
+  // let searchTerm = searchTerm.toUpperCase()
   return service.get(`page-${page}.json`)
   .then(response => {
-    // TODO: Iteration 6
-  })
+    actorNames = []
+    response.data.results.forEach( (actor) =>{
+      return actorNames.push(actor.name)
+    });
+  var filteredArray = actorNames.filter( (actorName) => {
+    console.log(actorName)
+      return actorName.toUpperCase().includes("m".toUpperCase())
+    });
+    return filteredArray
+  });
 }
 
 
 function getActorNamesWithTheirKnownForMovies(page) {
   return service.get(`page-${page}.json`)
   .then(response => {
-    // TODO: Iteration 7
+
+        actorNamesAndMovies = []
+
+        response.data.results.forEach( (actor) =>{
+          let movieArray = []
+          actor.known_for.forEach( (movie) => {
+            return (movieArray.push(movie.title))
+          })
+
+          return actorNamesAndMovies.push(`${actor.name} ${movieArray}`)
+        });
+        return actorNamesAndMovies
+
   })
 }
